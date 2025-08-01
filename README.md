@@ -1,7 +1,7 @@
 # -Study-Assistant
 A Raspberry Pi-based study monitoring system with posture detection, eye tracking, break reminders, and session logging.
 Inspiration
-
+Students tend to get carried away and distracted easily while studying. This problem is common with all children and especially children with ADHD (Attention-Deficit/Hyperactivity Disorder). When they go unmonitored, children are prone to pretend to be studying or doing other activities. Many sleeps during their study session. To overcome the problem of children going unsupervised we have come up with the idea of "Study Assistant". The concept is to monitor the child during the study session and nurture them with the care that they require to be motivated and noticed.
 In today’s world of constant distractions and easy access to entertainment, students struggle to stay focused during study sessions. Many experience:
 - Sleepiness or dozing off
 - Poor posture causing neck/back pain
