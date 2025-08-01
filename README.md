@@ -47,6 +47,16 @@ In today’s world of constant distractions and easy access to entertainment, st
 4. Study **duration** is recorded.
 5. LCD screen shows current status (Active, Alert, Break Time).
 6. Reminders are given for **water breaks** and **sedentary breaks**.
+   
+<img width="1161" height="712" alt="image" src="https://github.com/user-attachments/assets/2e4779de-c0f2-414d-b9aa-6fad4194e931" />
+
+<img width="728" height="456" alt="image" src="https://github.com/user-attachments/assets/2ee6f1c3-c4df-4e10-9b7f-7664085f2194" />
+
+<img width="800" height="738" alt="image" src="https://github.com/user-attachments/assets/742c318e-701e-459a-a639-6f1edbc32bbb" />
+
+
+
+   
 
  Future Scope
 	•	📱 Mobile/Web App for data visualization
