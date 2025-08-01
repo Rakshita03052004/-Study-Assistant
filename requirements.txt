@@ -1,0 +1,6 @@
+opencv-python
+dlib
+pyttsx3
+scipy
+pygame
+picamera2
